@@ -8,10 +8,16 @@
 
 💻 Data Engineer and Data Lover ☁️💖
 
+- Airflow
+- AWS
+- GCP
+- SQL
+- Docker
+- ETL
+- PySpark
 
 
-
-More infos about me:
+More info about me:
 
 <a href="https://www.linkedin.com/in/anazvdo"><img src="images/linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/anazvdo)  
 
