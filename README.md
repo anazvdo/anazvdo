@@ -1,15 +1,19 @@
 
 
-
-
 ![image info](./images/cover.png)
 
 ### Hi there 👋
 
 
-Data Engineer and Data Lover
 
-<a href="https://www.linkedin.com/in/anazvdo"><img src="https://github.com/anazvdo/anazvdo/images/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/anazvdo)  
+💻 Data Engineer and Data Lover ☁️💖
+
+
+
+
+More infos about me:
+
+<a href="https://www.linkedin.com/in/anazvdo"><img src="images/linkedin.png" width="18"></img></a> [LinkedIn](https://www.linkedin.com/in/anazvdo)  
 
 
 <!--
